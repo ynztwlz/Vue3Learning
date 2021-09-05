@@ -25,7 +25,7 @@ npm install webpack@5.5.1 webpack-cli@4.5.0 -D
 
 1. 在项目根目录中，创建名为webpack.config.js的webpack配置文件，并初始化如下的基本配置：
 
-   ![image-20210904220506132](Vue3.assets/image-20210904220506132.png)
+   ![./Vue3.assets/image-20210904220506132](Vue3.assets/image-20210904220506132.png)
 
 2. 在package.json的scripts节点下，新增dev脚本如下：
 
